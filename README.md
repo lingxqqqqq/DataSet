@@ -19,7 +19,7 @@ Running Steps
    INPUT_CSV = "path/to/your/input.csv"                          
    OUTPUT_DIR = "path/to/your/output.csv"                          
 
-4. Run Prediction
+5. Run Prediction
    Run the `predict.py` script to generate the final prediction results.
 
    python predict.py
