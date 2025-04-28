@@ -6,8 +6,6 @@ Running Steps
 2. Data Preprocessing
    Use `data_utils.py` to extract structural information, SASA (Solvent Accessible Surface Area), and charge information from the PDB file, and save it as a CSV file.
 
-   python data_utils.py --pdb_file <path_to_pdb> --output_dir <output_directory>
-
 3. Modify Configuration
    Before running the prediction script, ensure the following settings are modified:
    Model Path: EMOCPD/models/model_save/best_6071model.pth.tar
