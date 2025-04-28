@@ -13,7 +13,7 @@ Running Steps
    Output Path: Define where the prediction results should be stored.
 
    Open the `predict.py` file and modify the following code segment accordingly:
-   MODEL_PATH = "EMOCPD/models/model_save/best_6071model.pth.tar" 
+   MODEL_PATH = "EMOCPD/models/model_save/best_model.pth.tar" 
    INPUT_CSV = "path/to/your/input.csv"                          
    OUTPUT_DIR = "path/to/your/output.csv"                          
 
